@@ -58,6 +58,7 @@ Upon completing each 10 km asks you "are you tired?"
 If you reply "yes" then it should break and print "you didn't finish the race"
  If you reply "no" then it should continue and ask "are you tired" on every km
 If you finish all 50 km then it should print congratulations message
+
 6.  Write a Python program to find those numbers which are divisible by 7 and multiple of 5, between 1500 and 2700 (both included).
 
 7.   Print square of all numbers between 10 to 20 except even numbers
